@@ -21,6 +21,7 @@ Every raw source, exactly as received. Never edited. Canonical data is rebuilt f
 - Received: 23 November 2026.
 - Contents: 815 records linking 274 snake species to 120 antivenom products from 52 manufacturers in 38 countries, with specificity and WHO assessment status.
 - Licence: to be confirmed. WHO data usually carries its own terms of use; redistribution rights must be checked before release.
+- Permission: requested from WHO on 24 November 2026 through the WHO permissions form, request ID 202611829 (first emailed to permissions@who.int on 23 November 2026). The derived tables stay out of this repository until WHO replies.
 
 ## Known issues found on import
 
