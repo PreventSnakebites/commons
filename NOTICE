@@ -1,0 +1,10 @@
+PreventSnakebites commons
+Copyright 2026 the PreventSnakebites commons contributors
+
+Code in tools/ is licensed under the Apache License 2.0 (LICENSE).
+The charter, decision records and documentation are licensed under
+Creative Commons Attribution 4.0 International (LICENSE-DOCS).
+Data in data/ is licensed under the Open Database License 1.0 (LICENSE-DATA).
+
+Data sources and their own attribution requirements are listed in
+sources/SOURCES.md.

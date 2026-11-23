@@ -24,7 +24,9 @@ The live build plan whiteboard: https://claude.ai/artifact/4jpbP7Af3MAaRmwAbWrCx
 
 ## Licences
 
-- Data: Open Database License 1.0 (ODbL), decision 0006. Each source keeps its own attribution, listed in `sources/SOURCES.md`.
+- Code in `tools/`: Apache License 2.0 (`LICENSE`), decision 0007. Its patent grant keeps the code free of patent claims from anyone who contributes.
+- Charter, decisions and documentation: Creative Commons Attribution 4.0 (`LICENSE-DOCS`), decision 0007.
+- Data: Open Database License 1.0 (`LICENSE-DATA`), decision 0006. Each source keeps its own attribution, listed in `sources/SOURCES.md`.
 - WHO antivenom data and the tables built from it are held back from this public repository until WHO confirms its terms.
 
 ## Contact
