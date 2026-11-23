@@ -1,0 +1,28 @@
+country,level,natural_earth_code,reason
+AGO,ADM0,AGO,gbOpen boundary under CC BY-SA 2.0 (incompatible with ODbL)
+AUT,ADM0,AUT,gbOpen boundary under CC BY-SA 2.0
+AUT,ADM1,AUT,gbOpen boundary under CC BY-SA 2.0
+BWA,ADM1,BWA,gbOpen boundary under CC BY-SA 2.0
+GEO,ADM0,GEO,gbOpen boundary under CC BY-SA 2.0
+GHA,ADM1,GHA,gbOpen boundary under CC BY-SA 2.0
+GIN,ADM0,GIN,gbOpen boundary under CC BY-SA 2.0
+GRD,ADM1,GRD,gbOpen boundary under CC BY-SA 2.0
+GRL,ADM0,GRL,gbOpen boundary under CC BY-SA 2.0
+GRL,ADM1,GRL,gbOpen boundary under CC BY-SA 3.0
+JAM,ADM1,JAM,gbOpen boundary under CC BY-SA 2.0
+KNA,ADM1,KNA,gbOpen boundary under CC BY-SA 2.0
+MMR,ADM0,MMR,gbOpen boundary under CC BY-SA 2.0
+NER,ADM0,NER,gbOpen boundary under CC BY-SA 2.0
+SLV,ADM0,SLV,gbOpen boundary under CC BY-SA 2.0
+SLV,ADM1,SLV,gbOpen boundary under CC BY-SA 2.0
+TUR,ADM0,TUR,gbOpen boundary under CC BY-SA 2.0
+TUR,ADM1,TUR,gbOpen boundary under CC BY-SA 2.0
+XKX,ADM0,KOS,gbOpen boundary under CC BY-SA 2.0
+XKX,ADM1,KOS,gbOpen boundary under CC BY-SA 2.0
+GAB,ADM0,GAB,gbOpen boundary under CC BY-SA 3.0
+GAB,ADM1,GAB,gbOpen boundary under CC BY-SA 3.0
+MRT,ADM1,MRT,gbOpen boundary under CC BY-SA 3.0
+SYC,ADM1,SYC,gbOpen boundary under CC BY-SA 3.0
+WSM,ADM1,WSM,gbOpen boundary under CC BY-SA 3.0
+POL,ADM0,POL,gbOpen boundary licence unclear (Other - Humanitarian)
+TWN,ADM0,TWN,gbOpen boundary licence unclear (Pixabay licence)

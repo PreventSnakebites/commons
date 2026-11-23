@@ -1,0 +1,13 @@
+# Large raw downloads: fetched by the scripts in tools/ and verified against sources/SOURCES.md
+sources/raw/GARD/
+sources/raw/geoboundaries/
+sources/raw/naturalearth/
+# WHO data and everything built from it: held back until WHO confirms its terms (decision 0006)
+sources/raw/who_antivenom_records.csv
+data/canonical/manufacturers.csv
+data/canonical/antivenom_products.csv
+data/canonical/antivenom_species.csv
+data/canonical/antivenom_gaps.csv
+# Working files, rebuilt on demand
+data/work/
+__pycache__/
