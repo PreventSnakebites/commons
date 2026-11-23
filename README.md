@@ -20,7 +20,9 @@ Raw sources are never edited. Canonical data is always rebuilt from them by code
 
 ## Build plan
 
-The live build plan whiteboard: https://claude.ai/artifact/4jpbP7Af3MAaRmwAbWrCxR
+![VITA-SHIELD build plan, snapshot of 23 November 2026](docs/build-plan.png)
+
+Foundation and reference data are done. Next: events and the federated platform.
 
 ## Licences
 
