@@ -3,6 +3,8 @@
 A sovereign digital commons to end snakebite deaths and disabilities, for people and snakes alike. VITA-SHIELD is the prevention system built on it.
 Dedicated to humankind and the ecosystem. No patents. Built once, to last.
 
+The story behind it: [PreventSnakebites: The First Layer Is Built, and It Belongs to Everyone](https://purushothamasampangi.substack.com/p/preventsnakebites-the-first-layer)
+
 ## Layout
 
 | Folder | Holds |
